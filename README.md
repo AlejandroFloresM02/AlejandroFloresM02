@@ -19,7 +19,7 @@
   <br>
   at Tecnológico de Monterrey, Guadalajara.
   <br>
-  I love coding, problem-solving, learning new things, math, and music. 🤓
+  I love coding, problem-solving, learning new things, math, and music. 
 </p>
   
 <p align = "center"> How to reach me ⬇️</p>
