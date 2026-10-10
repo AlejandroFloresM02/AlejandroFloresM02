@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="240" viewBox="0 0 800 240" role="img" aria-label="Commits: 213 hand-written, 377 with Claude Code">
+<title>Commits: 213 hand-written, 377 with Claude Code</title>
+<style>text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, Helvetica, Arial, sans-serif; } .num { font-variant-numeric: tabular-nums; }</style>
+<rect x="0.5" y="0.5" width="799" height="239" rx="8" fill="#1a1a19" stroke="rgba(255,255,255,0.10)"/>
+<text x="24" y="38" font-size="16" font-weight="600" fill="#f0efec">Commits: hand-written vs. Claude Code</text>
+<text x="24" y="58" font-size="12" fill="#898781">Default-branch commits, merges excluded · updated 2026-10-10</text><text x="24" y="91" font-size="12" fill="#c3c2b7">Total commits</text>
+<text x="24" y="126" font-size="32" font-weight="600" fill="#f0efec">590</text>
+<text x="24" y="146" font-size="12" fill="#898781">across 36 repos</text><rect x="274.66666666666663" y="82" width="10" height="10" rx="2" fill="#3987e5"/><text x="290.66666666666663" y="91" font-size="12" fill="#c3c2b7">Hand-written</text>
+<text x="274.66666666666663" y="126" font-size="32" font-weight="600" fill="#f0efec">213</text>
+<text x="274.66666666666663" y="146" font-size="12" fill="#898781">36% of commits</text><rect x="525.3333333333333" y="82" width="10" height="10" rx="2" fill="#d95926"/><text x="541.3333333333333" y="91" font-size="12" fill="#c3c2b7">With Claude Code</text>
+<text x="525.3333333333333" y="126" font-size="32" font-weight="600" fill="#f0efec">377</text>
+<text x="525.3333333333333" y="146" font-size="12" fill="#898781">64% of commits</text><text x="24" y="184" font-size="12" fill="#c3c2b7">Commits</text>
+<path d="M132,174 H322  V186  H132 Q128,186 128,182 V178 Q128,174 132,174 Z" fill="#3987e5"/><path d="M324,174 H662 Q666,174 666,178 V182 Q666,186 662,186 H324  V174  Z" fill="#d95926"/>
+<text class="num" x="776" y="184" font-size="12" text-anchor="end" fill="#c3c2b7">64% Claude</text><text x="24" y="210" font-size="12" fill="#c3c2b7">Lines changed</text>
+<path d="M132,200 H474  V212  H132 Q128,212 128,208 V204 Q128,200 132,200 Z" fill="#3987e5"/><path d="M476,200 H662 Q666,200 666,204 V208 Q666,212 662,212 H476  V200  Z" fill="#d95926"/>
+<text class="num" x="776" y="210" font-size="12" text-anchor="end" fill="#c3c2b7">35% Claude</text>
+</svg>

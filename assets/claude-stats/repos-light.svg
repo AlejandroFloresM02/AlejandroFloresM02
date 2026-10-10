@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="352" viewBox="0 0 800 352" role="img" aria-label="Commits by repository, hand-written vs. Claude Code">
+<title>Commits by repository, hand-written vs. Claude Code</title>
+<style>text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, Helvetica, Arial, sans-serif; } .num { font-variant-numeric: tabular-nums; }</style>
+<rect x="0.5" y="0.5" width="799" height="351" rx="8" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+<text x="24" y="38" font-size="16" font-weight="600" fill="#0b0b0b">Commits by repository</text>
+<text x="24" y="58" font-size="12" fill="#898781">Top 8 repos by commit count</text><g font-size="12" fill="#52514e">
+  <rect x="544" y="29" width="10" height="10" rx="2" fill="#2a78d6"/><text x="560" y="38">Hand-written</text>
+  <rect x="656" y="29" width="10" height="10" rx="2" fill="#eb6834"/><text x="672" y="38">With Claude Code</text>
+</g><text x="24" y="98" font-size="12" fill="#898781">Private repo</text>
+<path d="M278,88 H289  V100  H278 Q274,100 274,96 V92 Q274,88 278,88 Z" fill="#2a78d6"/><path d="M291,88 H652 Q656,88 656,92 V96 Q656,100 652,100 H291  V88  Z" fill="#eb6834"/>
+<text class="num" x="664" y="98" font-size="12" fill="#52514e">286 <tspan fill="#898781">· 96% Claude</tspan></text><text x="24" y="126" font-size="12" fill="#898781">Private repo</text>
+<path d="M276,116 H278  V128  H276 Q274,128 274,126 V118 Q274,116 276,116 Z" fill="#2a78d6"/><path d="M280,116 H336.7832167832168 Q340.7832167832168,116 340.7832167832168,120 V124 Q340.7832167832168,128 336.7832167832168,128 H280  V116  Z" fill="#eb6834"/>
+<text class="num" x="348.7832167832168" y="126" font-size="12" fill="#52514e">50 <tspan fill="#898781">· 94% Claude</tspan></text><text x="24" y="154" font-size="12" fill="#898781">Private repo</text>
+<path d="M278,144 H307 Q311,144 311,148 V152 Q311,156 307,156 H278 Q274,156 274,152 V148 Q274,144 278,144 Z" fill="#2a78d6"/><path d="M311,144 H311.1993006993007 Q311.3986013986014,144 311.3986013986014,144.1993006993007 V155.8006993006993 Q311.3986013986014,156 311.1993006993007,156 H311  V144  Z" fill="#eb6834"/>
+<text class="num" x="319.3986013986014" y="154" font-size="12" fill="#52514e">28 <tspan fill="#898781">· 0% Claude</tspan></text><text x="24" y="182" font-size="12" fill="#52514e">Pokedex</text>
+<path d="M278,172 H298 Q302,172 302,176 V180 Q302,184 298,184 H278 Q274,184 274,180 V176 Q274,172 278,172 Z" fill="#2a78d6"/><path d="M302,172 H302.0244755244755 Q302.04895104895104,172 302.04895104895104,172.02447552447552 V183.97552447552448 Q302.04895104895104,184 302.0244755244755,184 H302  V172  Z" fill="#eb6834"/>
+<text class="num" x="310.04895104895104" y="182" font-size="12" fill="#52514e">21 <tspan fill="#898781">· 0% Claude</tspan></text><text x="24" y="210" font-size="12" fill="#52514e">parallel-programming-ITESM</text>
+<path d="M278,200 H295 Q299,200 299,204 V208 Q299,212 295,212 H278 Q274,212 274,208 V204 Q274,200 278,200 Z" fill="#2a78d6"/><path d="M299,200 H299.1888111888112 Q299.3776223776224,200 299.3776223776224,200.1888111888112 V211.8111888111888 Q299.3776223776224,212 299.1888111888112,212 H299  V200  Z" fill="#eb6834"/>
+<text class="num" x="307.3776223776224" y="210" font-size="12" fill="#52514e">19 <tspan fill="#898781">· 0% Claude</tspan></text><text x="24" y="238" font-size="12" fill="#898781">Private repo</text>
+<path d="M274.5,228 H275  V240  H274.5 Q274,240 274,239.5 V228.5 Q274,228 274.5,228 Z" fill="#2a78d6"/><path d="M277,228 H295.3776223776224 Q299.3776223776224,228 299.3776223776224,232 V236 Q299.3776223776224,240 295.3776223776224,240 H277  V228  Z" fill="#eb6834"/>
+<text class="num" x="307.3776223776224" y="238" font-size="12" fill="#52514e">19 <tspan fill="#898781">· 95% Claude</tspan></text><text x="24" y="266" font-size="12" fill="#52514e">Incident-Management-AI-Agent-Hack…</text>
+<path d="M276,256 H278  V268  H276 Q274,268 274,266 V258 Q274,256 276,256 Z" fill="#2a78d6"/><path d="M280,256 H292.7062937062937 Q296.7062937062937,256 296.7062937062937,260 V264 Q296.7062937062937,268 292.7062937062937,268 H280  V256  Z" fill="#eb6834"/>
+<text class="num" x="304.7062937062937" y="266" font-size="12" fill="#52514e">17 <tspan fill="#898781">· 82% Claude</tspan></text><text x="24" y="294" font-size="12" fill="#52514e">terminal-hifi-player</text>
+<path d="M278,284 H290 Q294,284 294,288 V292 Q294,296 290,296 H278 Q274,296 274,292 V288 Q274,284 278,284 Z" fill="#2a78d6"/><path d="M294,284 H294.0174825174825 Q294.034965034965,284 294.034965034965,284.0174825174825 V295.9825174825175 Q294.034965034965,296 294.0174825174825,296 H294  V284  Z" fill="#eb6834"/>
+<text class="num" x="302.034965034965" y="294" font-size="12" fill="#52514e">15 <tspan fill="#898781">· 0% Claude</tspan></text><text x="24" y="322" font-size="12" fill="#898781">28 other repos</text>
+<path d="M278,312 H422  V324  H278 Q274,324 274,320 V316 Q274,312 278,312 Z" fill="#2a78d6"/><path d="M424,312 H450.31468531468533 Q454.31468531468533,312 454.31468531468533,316 V320 Q454.31468531468533,324 450.31468531468533,324 H424  V312  Z" fill="#eb6834"/>
+<text class="num" x="462.31468531468533" y="322" font-size="12" fill="#52514e">135 <tspan fill="#898781">· 17% Claude</tspan></text>
+</svg>
