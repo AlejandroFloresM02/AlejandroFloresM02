@@ -35,19 +35,11 @@
 
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlejandroFloresM02&theme=gruvbox" alt="Profile Details" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlejandroFloresM02&theme=gruvbox" alt="Repos per Language" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlejandroFloresM02&theme=gruvbox" alt="Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlejandroFloresM02&theme=github_dark" alt="Profile Details" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlejandroFloresM02&theme=github_dark" alt="Repos per Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlejandroFloresM02&theme=github_dark" alt="Stats" />
   <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlejandroFloresM02&theme=monokai&exclude={exclude}" alt="Most Commit Language" /> -->
 </div>
-
-<!-- Hand-written vs. Claude Code commits: regenerated daily by .github/workflows/claude-stats.yml -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/claude-stats/card-dark.svg" />
-    <img src="assets/claude-stats/card-light.svg" width="600" alt="Commits: hand-written vs. Claude Code" />
-  </picture>
-</p>
 
 
 
