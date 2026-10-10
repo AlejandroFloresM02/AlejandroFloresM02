@@ -35,7 +35,7 @@
 
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlejandroFloresM02&theme=github_dark" alt="Profile Details" />
+  <img src="assets/profile-details.svg" alt="Profile Details" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlejandroFloresM02&theme=github_dark" alt="Repos per Language" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlejandroFloresM02&theme=github_dark" alt="Stats" />
   <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlejandroFloresM02&theme=monokai&exclude={exclude}" alt="Most Commit Language" /> -->
