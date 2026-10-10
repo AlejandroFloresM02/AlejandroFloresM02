@@ -47,7 +47,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="600px"  src="https://skillicons.dev/icons?i=py,cpp,c,matlab,linux,vscode,ros,opencv,raspberrypi,ubuntu,sklearn,pytorch,tensorflow,bash,arduino,cmake,git,figma,obsidian,firebase,docker,&perline=12"  />
+<img width="650px"  src="https://go-skill-icons.vercel.app/api/icons?i=py,ts,js,cpp,c,matlab,postgresql,linux,vscode,ros,opencv,raspberrypi,ubuntu,sklearn,pytorch,tensorflow,bash,arduino,cmake,git,figma,obsidian,firebase,docker,aws,claude&perline=13"  />
 </p>
 
   
