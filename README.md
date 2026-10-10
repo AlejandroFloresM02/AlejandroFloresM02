@@ -42,20 +42,12 @@
 </div>
 
 <!-- Hand-written vs. Claude Code commits: regenerated daily by .github/workflows/claude-stats.yml -->
-<div align="center">
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/claude-stats/summary-dark.svg" />
-    <img src="assets/claude-stats/summary-light.svg" width="800" alt="Commits: hand-written vs. Claude Code" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/claude-stats/card-dark.svg" />
+    <img src="assets/claude-stats/card-light.svg" width="600" alt="Commits: hand-written vs. Claude Code" />
   </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/claude-stats/monthly-dark.svg" />
-    <img src="assets/claude-stats/monthly-light.svg" width="800" alt="Commits per month, hand-written vs. Claude Code" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/claude-stats/repos-dark.svg" />
-    <img src="assets/claude-stats/repos-light.svg" width="800" alt="Commits by repository, hand-written vs. Claude Code" />
-  </picture>
-</div>
+</p>
 
 
 

@@ -18,7 +18,7 @@ jobs:
         with:
           node-version: 22
 
-      - name: Generate charts
+      - name: Generate card
         run: node scripts/claude-commit-stats.mjs
         env:
           # Classic PAT with the `repo` scope, so private and collaborator repos are counted.
