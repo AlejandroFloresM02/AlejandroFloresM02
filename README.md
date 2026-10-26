@@ -51,3 +51,12 @@
 </p>
 
   
+
+<!--Certifications Section-->
+<h2 align="center">Cᴇʀᴛɪꜰɪᴄᴀᴛɪᴏɴs</h2>
+<p align="center">
+  <a href="https://www.credly.com/badges/4ab75665-8530-45f0-8139-a37bb9567ea3/public_url">
+    <img src="https://images.credly.com/size/340x340/images/a6387cbd-5ac1-4894-833a-da2cbc28587e/blob" width="100" alt="Claude Certified Associate – Foundations" />
+  </a>
+</p>
+
