@@ -58,5 +58,8 @@
   <a href="https://www.credly.com/badges/4ab75665-8530-45f0-8139-a37bb9567ea3/public_url">
     <img src="https://images.credly.com/size/340x340/images/a6387cbd-5ac1-4894-833a-da2cbc28587e/blob" width="100" alt="Claude Certified Associate – Foundations" />
   </a>
+  <a href="https://www.credly.com/badges/eac78c1e-79fd-4ba3-a556-dafd5e4a73a2/public_url">
+    <img src="https://images.credly.com/size/340x340/images/f101c6ac-8a2d-4220-b381-70e3e6c364e3/blob" width="100" alt="Claude Certified Developer – Foundations" />
+  </a>
 </p>
 
